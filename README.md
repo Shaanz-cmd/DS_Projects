@@ -1,2 +1,1 @@
-hi
-Repo for DigiSkills Projects...
+This repo is for the DigiSkills Projects - Educational Purpose.
